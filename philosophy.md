@@ -3,9 +3,9 @@
 ## Философия
 
 ### Начала философии в Древней Греции. Досократики. Софисты.
-
-**==Seven Sages of Greece are highlighted!==**
-
+```diff
+! Seven Sages of Greece are highlighted!
+```
 *Seven gnomes are a little more hard to find.*
 
 Всё началось в Древней Греции, а потом уже древние греки повлияли на всех остальных. 
